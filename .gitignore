@@ -1,0 +1,29 @@
+# IDE and temporary project files
+.idea/
+tmp/
+HidroAyr.pdf
+
+# JavaScript and Expo artifacts
+**/node_modules/
+**/.expo/
+**/dist/
+**/dist-*/
+**/output/
+
+# Android build artifacts and local configuration
+**/build/
+**/.gradle/
+**/.cxx/
+**/local.properties
+**/*.keystore
+**/*.jks
+**/*.apk
+**/*.aab
+
+# Local environment files
+**/.env
+**/.env.*
+!**/.env.example
+
+# Logs
+*.log
